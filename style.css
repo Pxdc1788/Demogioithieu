@@ -1,0 +1,21 @@
+body {
+    background-image: url('images/brick.jpg')
+}
+
+.design {
+    margin-top: 40px;
+    background-color: #333;
+}
+
+h3 {
+    font-size: 30px;
+    letter-spacing: 2rem;
+}
+
+.text-head {
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+    border-top: 2px solid white;
+    padding-top: 5px;
+    margin-top: 4px;
+}
